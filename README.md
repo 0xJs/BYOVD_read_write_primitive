@@ -8,7 +8,7 @@ By using this project, you agree to use it responsibly and ethically. The author
 This project involves reading from or writing to kernel memory. Such operations can cause system instability, crashes, or Blue Screen of Death (BSOD) if used incorrectly. Proceed with caution, and ensure you fully understand the potential impact before running the code.
 
 Tested on:
-- Windows 11 24H2
+- Windows 11 (24H2)
 - Windows Server 2022 (21H2)
 
 # General
